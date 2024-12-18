@@ -21,3 +21,11 @@ Noise patches superimposed on the base face were generated using the rcicr R pac
 Dotsch R. (2016). Rcicr: Reverse-correlation image-classification toolbox. R package (Version 0.3), 4. <https://cran.r-project.org/web/packages/rcicr/index.html>
 
 Lundqvist, D., & Litton, J. E. (1998). The Averaged Karolinska Directed Emotional Faces - AKDEF, CD ROM from Department of Clinical Neuroscience, Psychology section, Karolinska Institutet, ISBN 91-630-7164-9.
+
+# About me
+
+Manuel Oliveira
+
+Working on topics related to Human-AI Interaction, AI in Education, Social Cognition
+
+Personal website: <https://manueloliveira.nl/>
