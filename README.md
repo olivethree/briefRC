@@ -28,7 +28,7 @@ I might add more versions in the future (e.g. 6 stimuli, or the traditional 2 st
 
 ## Face Stimuli
 
-The task uses noise patches superimposed on a composite image of average male and female faces with neutral expression from the Karolinska Face Database (Lundqvist & Litton, 1998). This base face was generated using the rcicr R package (Dotsch, 2016).
+The task uses noise patches superimposed on a composite image of average male and female faces with neutral expression from the Karolinska Face Database (Lundqvist & Litton, 1998). The stimulu were generated using the rcicr R package (Dotsch, 2016).
 
 ## References
 
