@@ -20,6 +20,12 @@ The results will be automatically saved to your browser's default downloads dire
 
 This version displays the filenames of the images during the experiment. Use this version to verify how the stimuli are presented and ensure proper counterbalancing.
 
+## Task Details
+
+For now, only the version of Brief-RC that presents 12 stimuli per trial is available.
+
+I might add more versions in the future (e.g. 6 stimuli, or the traditional 2 stimuli per trial), but I think the 12 stimuli per trial strike a good balance between size of the images and how many of them might fit into a typical laptop screen (say 13" to 15"). 
+
 ## Face Stimuli
 
 The task uses noise patches superimposed on a composite image of average male and female faces with neutral expression from the Karolinska Face Database (Lundqvist & Litton, 1998). This base face was generated using the rcicr R package (Dotsch, 2016).
