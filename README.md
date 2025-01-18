@@ -29,6 +29,15 @@ I might add more versions in the future (e.g. 6 stimuli, or the traditional 2 st
 
 The task uses noise patches superimposed on a composite image of average male and female faces with neutral expression from the Karolinska Face Database (Lundqvist & Litton, 1998). The stimulu were generated using the rcicr R package (Dotsch, 2016).
 
+# Web Version of the Brief RC Task
+
+You can run a simple version of the Brief RC Task with 12 faces per trial on your local web browser here: 
+
+[Web BriefRC12] (https://olivethree.github.io/briefrc12online/)
+
+This version includes 60 trials, participant number input, and some basic demographics. The target category is "Star Wars Fan", just for the sake of demonstration.
+The output data file includes all the necessary data (and more) to generate the classification images that reflect an approximation to the target mental representation of which facial cues predict the perception of the target trait category (Star Wars Fan) from a face.
+
 ## References
 
 Dotsch R. (2016). Rcicr: Reverse-correlation image-classification toolbox. R package (Version 0.3), 4. <https://cran.r-project.org/web/packages/rcicr/index.html>
